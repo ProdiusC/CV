@@ -1,0 +1,131 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;   
+    color: #F7CCAC;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #3A3845;
+    font-weight: normal;
+}
+
+.h2Pro{
+    color: #F7CCAC;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #826F66;
+}
+
+.top-container{
+    background-color: #3A3845;
+    padding-top: 100px;
+    position: relative;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom:300px;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.profile_img{
+    height: 300px;
+    width: 300px;
+    margin-top: 30px ;
+}
+
+.computer_img{
+    border-radius: 100%;
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+}
+
+.chillies_img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.p1{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+a{
+    color: #826F66;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 200px auto 200px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+hr{
+    width: 10%;
+    border-style: dotted none none;
+    border-width: 5px;
+    margin: 100px auto 100px auto;
+}
+
+
+.bottom-container{
+    background-color: #3A3845;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 50px;
+}
+
+.p_footer{
+    margin-bottom: 0;
+    color: white;
+}
+
+a{
+    color: #826F66;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px 20px;
+}
+
+.btn{
+    background-color: #3A3845;
+    color: #F7CCAC;
+    font-weight: 400;
+    padding: 15px 10px 15px 10px;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    background-color: #F7CCAC;
+    color: #3A3845;
+}
+
+p{
+    margin-bottom: 50px;
+}
